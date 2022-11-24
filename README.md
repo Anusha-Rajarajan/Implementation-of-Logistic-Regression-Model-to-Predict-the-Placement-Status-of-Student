@@ -83,6 +83,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ![output](./m2.png)
 ### null function
 ![output](./m3.png)
+### duplicate()
+![m11](https://user-images.githubusercontent.com/93427472/203791464-a3edfb49-d820-40d7-af93-1f1967c4c552.png)
 ### label encoding
 ![output](./m4.png)
 ### x status
